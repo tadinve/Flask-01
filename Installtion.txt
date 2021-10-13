@@ -1,0 +1,5 @@
+1)  Get table plus https://tableplus.com for postgress db admin
+
+
+
+
